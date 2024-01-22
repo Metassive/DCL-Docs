@@ -35,7 +35,7 @@ Below is the guide to implementing DCL-Docs, which consists of four steps. The f
 ### 4 – Implementing in ChatGPT:
 4.1 – **Create chat**: Go to ChatGPT and click on “Create a GPT.”
 
-4.2 – **Configure chat**: In the “Configure” tab, select “Upload files” and upload the files.
+4.2 – **Configure chat**: In the “Configure” tab, select “Upload files” and upload the files you have generated or download them directly from [here](https://github.com/Metassive/DCL-Docs/tree/main/Data) if you want skip steps 1, 2 and 3.
 
 4.3 – **Implement chat**:
 Click on “Publish Changes” and then on “Confirm.” The chat is now ready for use.

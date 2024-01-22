@@ -15,13 +15,17 @@ Below is a guide for implementing DCL-Docs, consisting of four steps. The first 
 ### 2 - Extracting information:
 2.1 - **Install Required Libraries**: requests, beautifulsoup4, and selenium.
 
-2.2 - **Run Scripts**: Execute one by one to obtain .txt files.
+2.2 - [**Download extraction scripts**](https://github.com/Metassive/DCL-Docs/tree/main/Extraction%20Scripts).
+
+2.3 - **Run extraction scripts**: Execute one by one to obtain .txt files.
 <br><br>
 
 ### 3 - Processing information:
 3.1 - **Install Required Libraries**: re (usually comes with Python, so this step may not be necessary).
 
-3.2 - **Run Cleaning Scripts**: As in step 2.2, execute them one by one to get other .txt files.
+3.2 - [**Download cleaning scripts**](https://github.com/Metassive/DCL-Docs/tree/main/Cleaning%20Scripts).
+
+3.3 - **Run cleaning scripts**: As in step 2.3, execute them one by one to get other .txt files.
 <br><br>
 
 ### 4 – Implementing in ChatGPT:

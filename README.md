@@ -1,4 +1,4 @@
-# DCL-Docs: A Chatbot for Decentraland Inquiries
+# DCL-Docs
 
 DCL-Docs is a chatbot designed to answer questions about most matters related to [Decentraland](https://decentraland.org/). This project has been funded by [DecentralandDAO](https://dao.decentraland.org/).
 

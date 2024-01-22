@@ -13,7 +13,7 @@ Below is a guide for implementing DCL-Docs, consisting of four steps. The first 
 <br><br>
 
 ### 2 - Extracting information:
-2.1 - **Install Required Libraries**: requests, beautifulsoup4, and selenium.
+2.1 - **Install required libraries**: requests, beautifulsoup4, and selenium.
 
 2.2 - [**Download extraction scripts**](https://github.com/Metassive/DCL-Docs/tree/main/Extraction%20Scripts).
 
@@ -21,7 +21,7 @@ Below is a guide for implementing DCL-Docs, consisting of four steps. The first 
 <br><br>
 
 ### 3 - Processing information:
-3.1 - **Install Required Libraries**: re (usually comes with Python, so this step may not be necessary).
+3.1 - **Install required libraries**: re (usually comes with Python, so this step may not be necessary).
 
 3.2 - [**Download cleaning scripts**](https://github.com/Metassive/DCL-Docs/tree/main/Cleaning%20Scripts).
 
@@ -29,8 +29,9 @@ Below is a guide for implementing DCL-Docs, consisting of four steps. The first 
 <br><br>
 
 ### 4 – Implementing in ChatGPT:
-4.1 – Go to ChatGPT and click on “Create a GPT.”
+4.1 – **Create chat**: Go to ChatGPT and click on “Create a GPT.”
 
-4.2 – In the “Configure” tab, select “Upload files” and upload the files.
+4.2 – **Configure chat**: In the “Configure” tab, select “Upload files” and upload the files.
 
-4.3 – Click on “Publish Changes” and then on “Confirm.” The chat is now ready for use.
+4.3 – **Implement chat**:
+Click on “Publish Changes” and then on “Confirm.” The chat is now ready for use.

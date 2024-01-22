@@ -2,7 +2,11 @@
 
 DCL-Docs is a chatbot designed to answer questions about most matters related to [Decentraland](https://decentraland.org/). This project has been funded by [DecentralandDAO](https://dao.decentraland.org/).
 
-Below is a guide for implementing DCL-Docs, consisting of four steps. The first three steps result in several .txt files that are comprehensible not only by ChatGPT but also by other Large Language Models (LLMs), including open-source ones. Step four details how to implement it in ChatGPT, due to its popularity and ease of use. However, users are free to experiment, replicate, or enhance DCL-Docs as they wish.
+ChatGPT DCL-Docs is published, and ChatGPT Plus users can use it at this link, however, if you want to implement it yourself in an easy and quick way, simply follow step 4 of this guide and you will be able to get it up and running quickly.
+
+In addition to this, the extraction and cleaning scripts that have been used have also been published, being fully available to the community so that the process can be replicated by anyone.
+
+Below is the guide to implementing DCL-Docs, which consists of four steps. The first three steps result in several .txt files that are understandable not only for ChatGPT but also for other large language models (LLM), including open-source ones. Step four details how to implement it in ChatGPT, due to its popularity and ease of use. However, users are free to experiment, replicate, or improve DCL-Docs as they wish.
 
 ## Usage Guide
 

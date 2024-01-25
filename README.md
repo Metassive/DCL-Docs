@@ -8,6 +8,8 @@ In addition to this, the extraction and cleaning scripts that have been used hav
 
 Below is the guide to implementing DCL-Docs, which consists of four steps. The first three steps result in several .txt files that are understandable not only for ChatGPT but also for other large language models (LLM), including open-source ones. Step four details how to implement it in ChatGPT, due to its popularity and ease of use. However, users are free to experiment, replicate, or improve DCL-Docs as they wish.
 
+If you are a ChatGPT Plus user you can try the chatbot implemented right [here](https://chat.openai.com/g/g-0ujxahgsV-dcl-docs).
+
 ## Usage Guide
 
 ### 1 - Preparing your computer:
